@@ -1,4 +1,5 @@
 """
+Data Collection to create the vowelsLSE_new_test dataset
 Hand Sign Detection for vowels of the American Sign Language
 Based on: Computer Vision Zone
 Website: https://www.computervision.zone/courses/hand-sign-detection-asl/
