@@ -26,3 +26,7 @@ The repository includes:
       - ensemble_best_models.ipynb. In this notebook, we create an Ensemble model with the best three models applied according to the results of the metrics.
       
     *notebook_images* folder contains images used in the notebooks such as the transformations applied for data, and the samples of signs of the vowels of the LSE, among others.
+
+The corresponding datasets are in the following link: 
+- *vowelsLSE*          :  https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/EsL9HGgKGHFNoT6fT2d0NXkBKbJ7x7bbyIsoMvGnN2ATbQ?e=nXoUlS
+- *vowelsLSE new test* :  https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/Eq7UEiPeQvlOppvG_Fj1NgEBrlOwAIXGocOiVSC11JM0-w?e=gIGbMl
