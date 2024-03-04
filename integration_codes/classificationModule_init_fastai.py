@@ -1,14 +1,12 @@
 """
-Classification Module with fastai
-Based on: Teachable Machine, and Hand Sign Detection course for vowels of the American Sign Language
+Classification Module with FastAI
+Based on: Hand Sign Detection course for vowels of the American Sign Language
 from Computer Vision Zone course
 Websites:
-https://teachablemachine.withgoogle.com/
 https://www.computervision.zone/courses/hand-sign-detection-asl/
 """
 
 # Import libraries
-from tensorflow import keras
 import numpy as np
 import cv2
 from fastai.vision.all import *
