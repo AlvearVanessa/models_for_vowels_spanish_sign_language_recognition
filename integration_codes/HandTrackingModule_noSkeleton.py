@@ -1,9 +1,8 @@
 """
-Detection Module with mediapipe
-Based on: Teachable Machine, and Hand Sign Detection course for vowels of the American Sign Language
+Detection Module with MediaPipe
+Based on: Hand Sign Detection course for vowels of the American Sign Language
 from Computer Vision Zone
-Websites:
-https://teachablemachine.withgoogle.com/
+Website:
 https://www.computervision.zone/courses/hand-sign-detection-asl/
 """
 
