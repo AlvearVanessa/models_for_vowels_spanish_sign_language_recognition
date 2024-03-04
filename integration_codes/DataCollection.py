@@ -1,9 +1,8 @@
 """
-Data collection Module
-Based on: Teachable Machine, and Hand Sign Detection course for vowels of the American Sign Language
+Data collection Module to create vowelsLSE dataset
+Based on: Hand Sign Detection course for vowels of the American Sign Language
 from Computer Vision Zone course
-Websites:
-https://teachablemachine.withgoogle.com/
+Website:
 https://www.computervision.zone/courses/hand-sign-detection-asl/
 """
 
