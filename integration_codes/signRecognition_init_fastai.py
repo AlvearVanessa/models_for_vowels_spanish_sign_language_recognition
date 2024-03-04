@@ -1,9 +1,9 @@
 """
-Sign Recognition Module with fastai
-Based on: Teachable Machine, and Hand Sign Detection course for vowels of the American Sign Language
-from Computer Vision Zone course
-Websites:
-https://teachablemachine.withgoogle.com/
+LSE Vowels Sign Recognition System Module with FastAI
+This is the integration code between the classification and hand-detection modules
+Based on: Hand Sign Detection course for vowels of the American Sign Language
+from the Computer Vision Zone course
+Website:
 https://www.computervision.zone/courses/hand-sign-detection-asl/
 """
 
