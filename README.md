@@ -29,3 +29,5 @@ The repository includes:
 The corresponding datasets are in the following links: 
 - *vowelsLSE*          :  https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/EnatqT9WnMBMg22VVjbF354B3b468vw6zwivlqpSbABjZw?e=sOzRIP
 - *vowelsLSE_new_test* :  https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/Eq7UEiPeQvlOppvG_Fj1NgEBrlOwAIXGocOiVSC11JM0-w?e=HP3Qdl
+
+For any further information: maalvear@unirioja.es
