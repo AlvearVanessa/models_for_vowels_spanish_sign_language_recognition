@@ -4,6 +4,11 @@ Based on: Teachable Machine and Computer Vision Zone
 Websites:
 https://teachablemachine.withgoogle.com/
 https://www.computervision.zone/
+
+Fri 22 11 24 09:23 CET
+@uthor: maalvear
+
+
 """
 
 # Import libraries
